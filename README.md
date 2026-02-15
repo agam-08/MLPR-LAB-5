@@ -1,4 +1,4 @@
-#### Lab 5 – Face Clustering using K-Means Algorithm
+### Lab 5 – Face Clustering using K-Means Algorithm
 
 ## Objective
 
