@@ -1,10 +1,10 @@
-####Lab 5 – Face Clustering using K-Means Algorithm
+#### Lab 5 – Face Clustering using K-Means Algorithm
 
-##Objective
+## Objective
 
 The objective of this experiment is to detect faces in an image and organize them into groups based on similarity using the K-Means clustering algorithm. Colour-based features, specifically Hue and Saturation values, are extracted from each detected face. These features are then used to cluster faces and classify a new input face according to the learned clusters.
 
-##Procedure
+## Procedure
 
 The experiment was carried out in the following stages:
 
@@ -55,7 +55,7 @@ Cluster centroids were highlighted.
 
 The test face was also plotted to show its cluster assignment.
 
-##Observations
+## Observations
 
 Haar Cascade successfully detected faces from the image.
 
@@ -68,7 +68,7 @@ The new test face was correctly assigned to the nearest cluster.
 
 Graphical representation helped in clearly understanding cluster formation.
 
-##Outputs and Figures
+## Outputs and Figures
 
 ![Plaksha_Faculty](https://github.com/user-attachments/assets/9735f076-6fec-4d35-8dba-df88e33ad9aa)
 
@@ -82,7 +82,7 @@ Graphical representation helped in clearly understanding cluster formation.
 
 <img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/873e2b1e-c2ed-49b0-ab48-2841cfdfe984" />
 
-##Conclusion
+## Conclusion
 
 This lab demonstrated how computer vision and unsupervised machine learning techniques can be used together for face grouping and classification. Faces were detected using OpenCV, and HSV-based colour features were extracted to represent each face numerically. The K-Means algorithm grouped similar faces into clusters, and a new face was successfully classified based on its feature similarity. This experiment highlights the importance of feature extraction, clustering algorithms, and visual analysis in image processing tasks.
 
